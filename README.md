@@ -113,7 +113,7 @@ Official integrations are maintained by companies building production ready MCP 
 - **[Context 7](https://github.com/upstash/context7-mcp)** - Context7 MCP - Up-to-date Docs For Any Cursor Prompt
 - **[Convex](https://stack.convex.dev/convex-mcp-server)** - Introspect and query your apps deployed to Convex.
 - **[Coresignal](https://github.com/Coresignal-com/coresignal-mcp/)** - Access comprehensive B2B data on companies, employees, and job postings for your LLMs and AI workflows.
-- **[Cuba-Memorys](https://github.com/lENADRO1910/cuba-memorys)** - Persistent memory for AI agents with 12 Cuban-named tools. Knowledge graph, Hebbian learning, 4-signal RRF fusion search, GraphRAG enrichment, FSRS spaced repetition, anti-hallucination grounding, and REM Sleep consolidation. Built on PostgreSQL.
+- **[Cuba-Memorys](https://github.com/LeandroPG19/cuba-memorys)** - Persistent memory for AI agents with 13 Cuban-named MCP tools. Knowledge graph, Hebbian learning, exponential decay, hybrid search (RRF + pgvector), anti-hallucination grounding, error memory, and REM sleep consolidation. Rust, PostgreSQL.
 - **[Couchbase](https://github.com/Couchbase-Ecosystem/mcp-server-couchbase)** - Interact with the data stored in Couchbase clusters using natural language.
 - **[CRIC Wuye AI](https://github.com/wuye-ai/mcp-server-wuye-ai)** - Interact with capabilities of the CRIC Wuye AI platform, an intelligent assistant specifically for the property management industry.
 - **[Crawlbase MCP](https://github.com/crawlbase/crawlbase-mcp)** - Enables AI agents to access real-time web data with HTML, markdown, and screenshot support. SDKs: Node.js, Python, Java, PHP, .NET.
